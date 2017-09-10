@@ -12,7 +12,6 @@
 
 #include"MFCC.hpp"
 
-
 using namespace std;
 using namespace Eigen;
 
